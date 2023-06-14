@@ -44,5 +44,5 @@ This is a simple project made using API and HTML, CSS, and JS. In this project, 
 
 
 ## 🛠 Skills
-HTML, CSS,JavaScript, Python, openCV, Flask ....
+HTML, CSS,JavaScript ....
 
